@@ -1,11 +1,5 @@
 # datart-extension-charts
-An extension repository to host datart plugin charts which is in experiment state not officially.
 
-## How to use 
-### 1. use iife type of chart plugin
-Please run `yarn build` or `npm run build`, and get copy file from `dist` folder.
+**NOTE**: This respostory have been transfered to [another respository](https://github.com/Cuiyansong/datart-extension-charts-fork) which will sync with official respository, please go there to see more detail.
 
-### 2. use as React Component
-Please check the file in folder `plugins` 
-
- __NOTE: Plugin folder should be prefix as `datart-*` which could be automatic load when run `yarn build`__
+**NOTE**: Do Not `Fork` or `PR` this respository.
